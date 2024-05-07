@@ -16,7 +16,7 @@ This project is a single-page React application built with TypeScript and Tailwi
 
 **Getting Started:**
 
-1. **Clone the repository:** `git clone https://github-repo.git`
+1. **Clone the repository:** `git clone [Task Management App](https://github.com/Yoda-Meister/task-management-app.git)`
 2. **Install dependencies:** `npm install`
 3. **Start the development server:** `npm run start`
 4. **Open [http://localhost:3000](http://localhost:3000) to view it in the browser.**
